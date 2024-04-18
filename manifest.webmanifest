@@ -1,11 +1,11 @@
 {
-    "name": "HeroTown",
-    "short_name": "HeroTown",
+    "name": "HeroTownWebGL",
+    "short_name": "HeroTownWebGL",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "HeroTown",
+    "description": "",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
