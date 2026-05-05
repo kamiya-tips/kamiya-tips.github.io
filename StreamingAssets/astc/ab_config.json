@@ -1,0 +1,134 @@
+{
+    "AbInfos": [
+        {
+            "name": "atlas/common/scenecommon.spriteatlasv2",
+            "assets": [
+                "Atlas/Common/SceneCommon.spriteatlasv2"
+            ],
+            "dependencies": [],
+            "hash": "85e24da25fed4affb7080baa93cfe258"
+        },
+        {
+            "name": "atlas/common/uicommon.spriteatlasv2",
+            "assets": [
+                "Atlas/Common/UiCommon.spriteatlasv2"
+            ],
+            "dependencies": [],
+            "hash": "7e1db7e66cc5eba6b707f8245df6d150"
+        },
+        {
+            "name": "atlas/common/uihead.spriteatlasv2",
+            "assets": [
+                "Atlas/Common/UiHead.spriteatlasv2"
+            ],
+            "dependencies": [],
+            "hash": "a276d9d66bae9cac8cae81060f05774c"
+        },
+        {
+            "name": "config",
+            "assets": [
+                "Config/Encounter/001.asset",
+                "Config/Encounter/002.asset",
+                "Config/Map/001.asset",
+                "Config/MapCell/001.asset",
+                "Config/MapCell/002.asset",
+                "Config/MapCell/003.asset",
+                "Config/MapCell/004.asset",
+                "Config/MapCell/005.asset",
+                "Config/MapCell/006.asset",
+                "Config/Monster/001.asset",
+                "Config/Monster/002.asset",
+                "Config/Monster/003.asset",
+                "Config/Monster/004.asset",
+                "Config/Monster/005.asset"
+            ],
+            "dependencies": [],
+            "hash": "ad090b95a8a4b2dad66c5bbf4850e1c2"
+        },
+        {
+            "name": "fontasset",
+            "assets": [
+                "FontAsset/AlimamaFangYuanTiVF-Thin SDF.asset"
+            ],
+            "dependencies": [],
+            "hash": "be9ab6d0a6f4419cc8cce12ebc7c52b7"
+        },
+        {
+            "name": "prefab/scene/spritetemplate.prefab",
+            "assets": [
+                "Prefab/Scene/SpriteTemplate.prefab"
+            ],
+            "dependencies": [],
+            "hash": "e9741ae35a0041d391763108b04be13c"
+        },
+        {
+            "name": "prefab/ui/panel/loadingpanel.prefab",
+            "assets": [
+                "Prefab/UI/Panel/LoadingPanel.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
+                "fontasset"
+            ],
+            "hash": "0eb10550ab09046f99e29ce1abf961b6"
+        },
+        {
+            "name": "prefab/ui/panel/mainpanel.prefab",
+            "assets": [
+                "Prefab/UI/Panel/MainPanel.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
+                "atlas/common/uihead.spriteatlasv2",
+                "fontasset"
+            ],
+            "hash": "662b6e1c39742b8eeb033e6d1f6534ce"
+        },
+        {
+            "name": "prefab/ui/panel/settingpanel.prefab",
+            "assets": [
+                "Prefab/UI/Panel/SettingPanel.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
+                "fontasset"
+            ],
+            "hash": "7efcecae98415318acb5661bc059189c"
+        },
+        {
+            "name": "prefab/ui/panel/startpanel.prefab",
+            "assets": [
+                "Prefab/UI/Panel/StartPanel.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
+                "fontasset"
+            ],
+            "hash": "f9a5927290b1675aedabef6f6cb91e97"
+        }
+    ],
+    "I18Infos": [
+        {
+            "language": 40,
+            "hash": "6f4bacc3f22ff15a9b9ba46b13f11f95"
+        },
+        {
+            "language": 10,
+            "hash": "5936f21f9d6c6132dffa4025480555e1"
+        }
+    ],
+    "AudioInfos": [
+        {
+            "name": "bgm/battle",
+            "hash": "1a597a21b3d329b348a05b8180c09015"
+        },
+        {
+            "name": "bgm/start",
+            "hash": "a03842b739b786ac58ef6a1782f1c3d4"
+        },
+        {
+            "name": "effect/buttonclick",
+            "hash": "ed3d43d4727982a38a67a30c8ba57bc9"
+        }
+    ]
+}
