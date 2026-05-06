@@ -43,7 +43,7 @@
                 "Config/Monster/005.asset"
             ],
             "dependencies": [],
-            "hash": "ad090b95a8a4b2dad66c5bbf4850e1c2"
+            "hash": "98245f438b4f81b51fad987ac2ef709c"
         },
         {
             "name": "fontasset",
@@ -51,7 +51,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF.asset"
             ],
             "dependencies": [],
-            "hash": "cef66470f0e0e3b98b19c4dff9a40411"
+            "hash": "a22f91a363f3f3671283c8e6ded7a0be"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -59,7 +59,7 @@
                 "Prefab/Scene/SpriteTemplate.prefab"
             ],
             "dependencies": [],
-            "hash": "cdca0ddd6f8db06403bfccb63dfcde73"
+            "hash": "cc5979cef68710ae43ba4822eeb763d0"
         },
         {
             "name": "prefab/ui/panel/loadingpanel.prefab",
@@ -83,6 +83,17 @@
                 "fontasset"
             ],
             "hash": "662b6e1c39742b8eeb033e6d1f6534ce"
+        },
+        {
+            "name": "prefab/ui/panel/notepanel.prefab",
+            "assets": [
+                "Prefab/UI/Panel/NotePanel.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
+                "fontasset"
+            ],
+            "hash": "dadffe5dddbd51cce21584fbb95c0909"
         },
         {
             "name": "prefab/ui/panel/settingpanel.prefab",
@@ -110,11 +121,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "6f4bacc3f22ff15a9b9ba46b13f11f95"
+            "hash": "c423c2a1da69464174666f39ccb15dbc"
         },
         {
             "language": 10,
-            "hash": "5936f21f9d6c6132dffa4025480555e1"
+            "hash": "7e6d320788065c7bf29e721635ff77bf"
         }
     ],
     "AudioInfos": [
