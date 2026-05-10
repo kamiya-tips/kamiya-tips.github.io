@@ -1,0 +1,59 @@
+START	Start
+LANGUAGE	EN
+CANCEL_BUTTON	Cancel
+OK_BUTTON	OK
+TEXT_0001	Lv
+TEXT_0002	Round {0}
+TEXT_0003	Roll Initiative
+TEXT_0004	r d20{0} = {1}
+TEXT_0005	{0} Turn
+ABILITY_0	Strength
+ABILITY_1	Constitution
+ABILITY_2	Dexterity
+ABILITY_3	Intelligence
+ABILITY_4	Wisdom
+ABILITY_5	Charisma
+RACE_00	Dragonborn
+RACE_01	Dwarf
+RACE_02	Eladrin
+RACE_03	Elf
+RACE_04	HalfElf
+RACE_05	Halfing
+RACE_06	Human
+RACE_07	Tiefling
+CLASS_00	Cleric
+CLASS_01	Fighter
+CLASS_02	Paladin
+CLASS_03	Ranger
+CLASS_04	Rogue
+CLASS_05	Warlock
+CLASS_06	Warlord
+CLASS_07	Wizard
+SKILL_00	Acrobatics
+SKILL_01	Arcana
+SKILL_02	Athletics
+SKILL_03	Bluff
+SKILL_04	Diplomacy
+SKILL_05	Dungeoneering
+SKILL_06	Endurance
+SKILL_07	Heal
+SKILL_08	History
+SKILL_09	Insight
+SKILL_10	Intimidate
+SKILL_11	Nature
+SKILL_12	Perception
+SKILL_13	Religion
+SKILL_14	Stealth
+SKILL_15	Streetwise
+SKILL_16	Thievery
+ROLE_NAME_0001	Tom
+ROLE_NAME_0002	Dane
+ROLE_NAME_0003	Balu
+ROLE_NAME_0004	Cole
+ROLE_NAME_0005	Gimli
+MONSTER_NAME_0001	Kobold Minions
+MONSTER_NAME_0002	Kobold Slinger
+MONSTER_NAME_0003	Kobold Dragonshields
+MONSTER_NAME_0004	Kobold Skirmisher
+MONSTER_NAME_0005	Kobold Wyrmpriest
+ENCOUNTER_0001	Outside Winterhaven

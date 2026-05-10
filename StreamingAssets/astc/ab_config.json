@@ -51,7 +51,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF.asset"
             ],
             "dependencies": [],
-            "hash": "36fefaaa2e850b04a9c6ac62c72ebb15"
+            "hash": "5b1572d918ee48f4acdc73b10f0e841a"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -60,6 +60,16 @@
             ],
             "dependencies": [],
             "hash": "7859f89265571d78f7ed64f1c0058ed3"
+        },
+        {
+            "name": "prefab/ui/item/headitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/HeadItem.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uihead.spriteatlasv2"
+            ],
+            "hash": "6e11c38b39489245a4634997db079ae2"
         },
         {
             "name": "prefab/ui/panel/loadingpanel.prefab",
@@ -80,9 +90,10 @@
             "dependencies": [
                 "atlas/common/uicommon.spriteatlasv2",
                 "atlas/common/uihead.spriteatlasv2",
-                "fontasset"
+                "fontasset",
+                "prefab/ui/item/headitem.prefab"
             ],
-            "hash": "662b6e1c39742b8eeb033e6d1f6534ce"
+            "hash": "f29b325ad61dda92e7ef63ded77c9fed"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
@@ -93,7 +104,7 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "dadffe5dddbd51cce21584fbb95c0909"
+            "hash": "712f9ba825c10ade3d718179565cbb8f"
         },
         {
             "name": "prefab/ui/panel/settingpanel.prefab",
@@ -121,11 +132,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "c423c2a1da69464174666f39ccb15dbc"
+            "hash": "aa8b9ebceee0c36aae762c96a6df54d9"
         },
         {
             "language": 10,
-            "hash": "7e6d320788065c7bf29e721635ff77bf"
+            "hash": "9e5a115393e5d2bb77ed66c20133518c"
         }
     ],
     "AudioInfos": [
