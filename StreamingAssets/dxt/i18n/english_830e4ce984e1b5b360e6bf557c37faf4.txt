@@ -7,12 +7,38 @@ TEXT_0002	Round {0}
 TEXT_0003	Roll Initiative
 TEXT_0004	r d20{0} = {1}
 TEXT_0005	{0} Turn
+TEXT_0006	{0}/{1}
+TEXT_0007	HP
+TEXT_0008	Move action already used. Do you want to spend a standard action?
+TEXT_0009	No move actions left
+TEXT_0010	No standard actions left
+TEXT_0011	Cannot overlap with companions
+TEXT_0012	Out of second wind
+TEXT_0013	No target
+TEXT_0014	Damage
+TEXT_0015	Hit
+TEXT_0016	r {0} = {1} {2}
+TEXT_0017	HIT
+TEXT_0018	MISS
+TEXT_0019	Damage r {0} = {1}
+TEXT_0020	Critical
+TEXT_0021	Damage {0}
+TEXT_0022	Victory for {0}
+TEXT_0023	No minor actions left
+TEXT_0024	Minor action already used. Do you want to spend a move action?
+TEXT_0025	Minor action already used. Do you want to spend a standard action?
+TEXT_0026	This power can't be used
+TEXT_0027	Can't move while immobilized
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity
 ABILITY_3	Intelligence
 ABILITY_4	Wisdom
 ABILITY_5	Charisma
+DEFENSE_0	AC
+DEFENSE_1	Fortitude
+DEFENSE_2	Reflex
+DEFENSE_3	Will
 RACE_00	Dragonborn
 RACE_01	Dwarf
 RACE_02	Eladrin
@@ -46,6 +72,18 @@ SKILL_13	Religion
 SKILL_14	Stealth
 SKILL_15	Streetwise
 SKILL_16	Thievery
+POWER_00001	Charge
+POWER_00002	Spear
+POWER_00003	Javelin
+POWER_00004	Dagger
+POWER_00005	Sling
+POWER_00006	Short Sword
+POWER_00007	Firepots
+POWER_00008	Gluepot
+POWER_00009	Melee Attack
+POWER_00010	Sure Strike
+POWER_00011	Cleave
+ITEM_00001	Longsword
 ROLE_NAME_0001	Tom
 ROLE_NAME_0002	Dane
 ROLE_NAME_0003	Balu

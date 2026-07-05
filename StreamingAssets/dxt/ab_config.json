@@ -6,7 +6,7 @@
                 "Atlas/Common/SceneCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "e07687322add805a6d49fb3248514f8a"
+            "hash": "c2b95048ee4d9fbcc0cee8a5eb8d410b"
         },
         {
             "name": "atlas/common/uicommon.spriteatlasv2",
@@ -14,7 +14,7 @@
                 "Atlas/Common/UiCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "76ea6500861ed05695640d0025cc890c"
+            "hash": "3b7e46c572712f2d01043c726503193d"
         },
         {
             "name": "atlas/common/uihead.spriteatlasv2",
@@ -29,6 +29,7 @@
             "assets": [
                 "Config/Encounter/001.asset",
                 "Config/Encounter/002.asset",
+                "Config/Encounter/003.asset",
                 "Config/Map/001.asset",
                 "Config/MapCell/001.asset",
                 "Config/MapCell/002.asset",
@@ -43,7 +44,7 @@
                 "Config/Monster/005.asset"
             ],
             "dependencies": [],
-            "hash": "98245f438b4f81b51fad987ac2ef709c"
+            "hash": "3621fdad30c648fbba9c9f6079c30bc0"
         },
         {
             "name": "fontasset",
@@ -51,7 +52,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF.asset"
             ],
             "dependencies": [],
-            "hash": "5b1572d918ee48f4acdc73b10f0e841a"
+            "hash": "40d28f75774492b1cf2a875720408f00"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -60,6 +61,26 @@
             ],
             "dependencies": [],
             "hash": "cc5979cef68710ae43ba4822eeb763d0"
+        },
+        {
+            "name": "prefab/ui/item/attackitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/AttackItem.prefab"
+            ],
+            "dependencies": [
+                "fontasset"
+            ],
+            "hash": "4a75f35d6184c81b59e42a0552a2e332"
+        },
+        {
+            "name": "prefab/ui/item/defenseitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/DefenseItem.prefab"
+            ],
+            "dependencies": [
+                "fontasset"
+            ],
+            "hash": "7199abb24338a2eab5d05985a29ac9b6"
         },
         {
             "name": "prefab/ui/item/headitem.prefab",
@@ -72,6 +93,28 @@
             "hash": "6e11c38b39489245a4634997db079ae2"
         },
         {
+            "name": "prefab/ui/item/opgroupitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/OpGroupItem.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
+                "fontasset"
+            ],
+            "hash": "bb2c0246c3b1cca5b9c3181c07e38f25"
+        },
+        {
+            "name": "prefab/ui/panel/confirmpanel.prefab",
+            "assets": [
+                "Prefab/UI/Panel/ConfirmPanel.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
+                "fontasset"
+            ],
+            "hash": "362e5e35d4604b2a0b4f412a95878184"
+        },
+        {
             "name": "prefab/ui/panel/loadingpanel.prefab",
             "assets": [
                 "Prefab/UI/Panel/LoadingPanel.prefab"
@@ -80,7 +123,7 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "0eb10550ab09046f99e29ce1abf961b6"
+            "hash": "cd3dbab0e70044c2490036567fc3491b"
         },
         {
             "name": "prefab/ui/panel/mainpanel.prefab",
@@ -93,7 +136,7 @@
                 "fontasset",
                 "prefab/ui/item/headitem.prefab"
             ],
-            "hash": "f29b325ad61dda92e7ef63ded77c9fed"
+            "hash": "5e897ec5e65d136348bf276c53b2cc32"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
@@ -104,7 +147,7 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "712f9ba825c10ade3d718179565cbb8f"
+            "hash": "393be99cd811a9efd7c9c317b2450faf"
         },
         {
             "name": "prefab/ui/panel/settingpanel.prefab",
@@ -115,7 +158,7 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "7efcecae98415318acb5661bc059189c"
+            "hash": "90541b1e350b67636f2094c438bd4e62"
         },
         {
             "name": "prefab/ui/panel/startpanel.prefab",
@@ -126,17 +169,27 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "f9a5927290b1675aedabef6f6cb91e97"
+            "hash": "b3eed3b5a3a4e5766f81013c1bfd8a4d"
+        },
+        {
+            "name": "prefab/ui/panel/toastpanel.prefab",
+            "assets": [
+                "Prefab/UI/Panel/ToastPanel.prefab"
+            ],
+            "dependencies": [
+                "fontasset"
+            ],
+            "hash": "4eff4d107b544a887406f0fbd9ce5ee4"
         }
     ],
     "I18Infos": [
         {
             "language": 40,
-            "hash": "aa8b9ebceee0c36aae762c96a6df54d9"
+            "hash": "ec490570242868760d4c91eda071734c"
         },
         {
             "language": 10,
-            "hash": "9e5a115393e5d2bb77ed66c20133518c"
+            "hash": "830e4ce984e1b5b360e6bf557c37faf4"
         }
     ],
     "AudioInfos": [
