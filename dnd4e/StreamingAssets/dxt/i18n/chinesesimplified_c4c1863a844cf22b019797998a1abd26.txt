@@ -29,6 +29,8 @@ TEXT_0024	次要动作已使用，是否消耗移动动作？
 TEXT_0025	次要动作已使用，是否消耗标准动作？
 TEXT_0026	此威能不能再用了
 TEXT_0027	定身，无法移动
+TEXT_0028	速度
+TEXT_0029	攻击
 ABILITY_0	力量
 ABILITY_1	体质
 ABILITY_2	敏捷
@@ -83,7 +85,24 @@ POWER_00008	胶水弹
 POWER_00009	近战攻击
 POWER_00010	必中一击
 POWER_00011	顺势斩
+POWER_00012	旋转扫击
+POWER_00013	强敌威压
+POWER_00014	魔法飞弹
+POWER_00015	冰冻射线
+POWER_00016	炙炎爆发
+POWER_00017	寒霜冲击
+POWER_00018	龙息
 ITEM_00001	长剑
+ITEM_00002	长棍
+ITEM_00003	鳞甲
+EFFECT_00001	装备重甲
+EFFECT_00002	对<color=#4ECDC4>{0}</color><br>持续到遭遇结束
+EFFECT_00003	对<color=#4ECDC4>{0}</color>以外的敌人<br>持续到<color=#4ECDC4>{0}</color>下一回合结束
+EFFECT_00004	标记
+TOOLTIP_00001	◆ <color=#FFD700><b>{0}</b></color>
+TOOLTIP_00002	<color=#6BFF6B>+{0}</color> {1}
+TOOLTIP_00003	<color=#FF6B6B>{0}</color> {1}
+TOOLTIP_00004	<margin-left=20><size=80%><color=#AAAAAA>{0}</color></size>
 ROLE_NAME_0001	汤姆
 ROLE_NAME_0002	丹恩
 ROLE_NAME_0003	巴鲁

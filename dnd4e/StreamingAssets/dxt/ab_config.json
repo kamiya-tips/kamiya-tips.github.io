@@ -6,7 +6,7 @@
                 "Atlas/Common/SceneCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "c2b95048ee4d9fbcc0cee8a5eb8d410b"
+            "hash": "667766af3efb4d7bc3957eb37814cdbb"
         },
         {
             "name": "atlas/common/uicommon.spriteatlasv2",
@@ -14,7 +14,7 @@
                 "Atlas/Common/UiCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "3b7e46c572712f2d01043c726503193d"
+            "hash": "f2063827ae2f0c64ec2e6409777dbcff"
         },
         {
             "name": "atlas/common/uihead.spriteatlasv2",
@@ -22,7 +22,7 @@
                 "Atlas/Common/UiHead.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "4de44cabc97d4597aefd61277a6cbc59"
+            "hash": "21c8892a802550c1e97804059fc1a6cc"
         },
         {
             "name": "config",
@@ -44,7 +44,7 @@
                 "Config/Monster/005.asset"
             ],
             "dependencies": [],
-            "hash": "3621fdad30c648fbba9c9f6079c30bc0"
+            "hash": "be601ca82dd5eb2180c5058fc7915716"
         },
         {
             "name": "fontasset",
@@ -52,7 +52,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF.asset"
             ],
             "dependencies": [],
-            "hash": "40d28f75774492b1cf2a875720408f00"
+            "hash": "1f5df55909de5b655526e158e614daa4"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -71,6 +71,26 @@
                 "fontasset"
             ],
             "hash": "4a75f35d6184c81b59e42a0552a2e332"
+        },
+        {
+            "name": "prefab/ui/item/buffitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/BuffItem.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2"
+            ],
+            "hash": "ee8fc9657a81246bc26d87721b141470"
+        },
+        {
+            "name": "prefab/ui/item/buttonitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/ButtonItem.prefab"
+            ],
+            "dependencies": [
+                "fontasset"
+            ],
+            "hash": "380caf1b1b14e44a4abd8abc92a070f9"
         },
         {
             "name": "prefab/ui/item/defenseitem.prefab",
@@ -99,9 +119,22 @@
             ],
             "dependencies": [
                 "atlas/common/uicommon.spriteatlasv2",
+                "fontasset",
+                "prefab/ui/item/buttonitem.prefab",
+                "prefab/ui/item/powerbuttonitem.prefab"
+            ],
+            "hash": "3d5a7e1a01461f1ff8ca5a8d4ff10872"
+        },
+        {
+            "name": "prefab/ui/item/powerbuttonitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/PowerButtonItem.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "bb2c0246c3b1cca5b9c3181c07e38f25"
+            "hash": "fe07cad5290b7db4e3851a119d3de73f"
         },
         {
             "name": "prefab/ui/panel/confirmpanel.prefab",
@@ -134,9 +167,12 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "atlas/common/uihead.spriteatlasv2",
                 "fontasset",
-                "prefab/ui/item/headitem.prefab"
+                "prefab/ui/item/buffitem.prefab",
+                "prefab/ui/item/buttonitem.prefab",
+                "prefab/ui/item/headitem.prefab",
+                "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "5e897ec5e65d136348bf276c53b2cc32"
+            "hash": "021ef7219f3ccfa12c4aa90cb65a8f80"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
@@ -180,16 +216,27 @@
                 "fontasset"
             ],
             "hash": "4eff4d107b544a887406f0fbd9ce5ee4"
+        },
+        {
+            "name": "prefab/ui/panel/tooltippanel.prefab",
+            "assets": [
+                "Prefab/UI/Panel/TooltipPanel.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
+                "fontasset"
+            ],
+            "hash": "7107693b4e1d54f4b61412d51b74393d"
         }
     ],
     "I18Infos": [
         {
             "language": 40,
-            "hash": "ec490570242868760d4c91eda071734c"
+            "hash": "c4c1863a844cf22b019797998a1abd26"
         },
         {
             "language": 10,
-            "hash": "830e4ce984e1b5b360e6bf557c37faf4"
+            "hash": "71dca331e84d0457886cea2907a3d46d"
         }
     ],
     "AudioInfos": [

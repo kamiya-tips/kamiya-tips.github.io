@@ -83,7 +83,21 @@ POWER_00008	Gluepot
 POWER_00009	Melee Attack
 POWER_00010	Sure Strike
 POWER_00011	Cleave
+POWER_00012	Spinning Sweep
+POWER_00013	Villain’s Menace
+POWER_00014	Magic Missile
+POWER_00015	Ray of Frost
+POWER_00016	Scorching Burst
+POWER_00017	Chill Strike
+POWER_00018	Dragon Breath
+POWER_00019	Flaming Sphere
 ITEM_00001	Longsword
+ITEM_00002	Quarterstaff
+ITEM_00003	Scale Armor
+EFFECT_00001	Speed {0}
+EFFECT_00002	Deal +{1} damage to {0} and gain +{2} attack
+EFFECT_00003	{1} to attacks against non-{0} targets
+EFFECT_00004	Mark
 ROLE_NAME_0001	Tom
 ROLE_NAME_0002	Dane
 ROLE_NAME_0003	Balu
