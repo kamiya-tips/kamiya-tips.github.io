@@ -29,6 +29,8 @@ TEXT_0024	Minor action already used. Do you want to spend a move action?
 TEXT_0025	Minor action already used. Do you want to spend a standard action?
 TEXT_0026	This power can't be used
 TEXT_0027	Can't move while immobilized
+TEXT_0028	Speed
+TEXT_0029	Attack
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity
@@ -94,10 +96,14 @@ POWER_00019	Flaming Sphere
 ITEM_00001	Longsword
 ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
-EFFECT_00001	Speed {0}
-EFFECT_00002	Deal +{1} damage to {0} and gain +{2} attack
-EFFECT_00003	{1} to attacks against non-{0} targets
+EFFECT_00001	Equip heavy armor
+EFFECT_00002	Vs <color=#4ECDC4>{0}</color><br>Until the end of the encounter
+EFFECT_00003	Vs non-<color=#4ECDC4>{0}</color><br>Until the end of <color=#4ECDC4>{0}</color> next turn
 EFFECT_00004	Mark
+TOOLTIP_00001	◆ <color=#FFD700><b>{0}</b></color>
+TOOLTIP_00002	<color=#6BFF6B>+{0}</color> {1}
+TOOLTIP_00003	<color=#FF6B6B>{0}</color> {1}
+TOOLTIP_00004	<margin-left=20><size=80%><color=#AAAAAA>{0}</color></size>
 ROLE_NAME_0001	Tom
 ROLE_NAME_0002	Dane
 ROLE_NAME_0003	Balu

@@ -52,7 +52,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF.asset"
             ],
             "dependencies": [],
-            "hash": "1f5df55909de5b655526e158e614daa4"
+            "hash": "8292b6be71f9d632cb9331e193fa6939"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -236,7 +236,7 @@
         },
         {
             "language": 10,
-            "hash": "71dca331e84d0457886cea2907a3d46d"
+            "hash": "56d16041899b7118a8314e23eec2fe63"
         }
     ],
     "AudioInfos": [
