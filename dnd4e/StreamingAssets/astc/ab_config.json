@@ -113,6 +113,16 @@
             "hash": "6e11c38b39489245a4634997db079ae2"
         },
         {
+            "name": "prefab/ui/item/logtextitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/LogTextItem.prefab"
+            ],
+            "dependencies": [
+                "fontasset"
+            ],
+            "hash": "ce0df7369691675867afa207b3bbb27e"
+        },
+        {
             "name": "prefab/ui/item/opgroupitem.prefab",
             "assets": [
                 "Prefab/UI/Item/OpGroupItem.prefab"
@@ -170,9 +180,10 @@
                 "prefab/ui/item/buffitem.prefab",
                 "prefab/ui/item/buttonitem.prefab",
                 "prefab/ui/item/headitem.prefab",
+                "prefab/ui/item/logtextitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "021ef7219f3ccfa12c4aa90cb65a8f80"
+            "hash": "de07b5cacf9954d3008b2a05a01bd273"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
