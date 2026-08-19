@@ -14,7 +14,7 @@
                 "Atlas/Common/UiCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "5393266934c9b08b20b336eeab7605ae"
+            "hash": "9f56d46599f7f8d43a072e3910b277a1"
         },
         {
             "name": "atlas/common/uihead.spriteatlasv2",
@@ -52,7 +52,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF.asset"
             ],
             "dependencies": [],
-            "hash": "8292b6be71f9d632cb9331e193fa6939"
+            "hash": "8113ecf690dc7e9f671398db5e202491"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -60,7 +60,7 @@
                 "Prefab/Scene/SpriteTemplate.prefab"
             ],
             "dependencies": [],
-            "hash": "7859f89265571d78f7ed64f1c0058ed3"
+            "hash": "ed5afb8b768cadde604cc6ef39ab750e"
         },
         {
             "name": "prefab/ui/item/attackitem.prefab",
@@ -113,6 +113,18 @@
             "hash": "6e11c38b39489245a4634997db079ae2"
         },
         {
+            "name": "prefab/ui/item/logitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/LogItem.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
+                "fontasset",
+                "prefab/ui/item/logtextitem.prefab"
+            ],
+            "hash": "84b18dd236947d26bf67dba21e841fee"
+        },
+        {
             "name": "prefab/ui/item/logtextitem.prefab",
             "assets": [
                 "Prefab/UI/Item/LogTextItem.prefab"
@@ -145,6 +157,14 @@
                 "fontasset"
             ],
             "hash": "fe07cad5290b7db4e3851a119d3de73f"
+        },
+        {
+            "name": "prefab/ui/panel/combatinfopanel.prefab",
+            "assets": [
+                "Prefab/UI/Panel/CombatInfoPanel.prefab"
+            ],
+            "dependencies": [],
+            "hash": "bd471bca0123c24361d0067928a39ecf"
         },
         {
             "name": "prefab/ui/panel/confirmpanel.prefab",
@@ -183,7 +203,7 @@
                 "prefab/ui/item/logtextitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "de07b5cacf9954d3008b2a05a01bd273"
+            "hash": "1defcb2b42fd4cd776aa50b428bd0f10"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
