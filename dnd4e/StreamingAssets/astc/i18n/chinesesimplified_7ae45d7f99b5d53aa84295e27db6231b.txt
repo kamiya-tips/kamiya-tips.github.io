@@ -92,6 +92,7 @@ POWER_00015	冰冻射线
 POWER_00016	炙炎爆发
 POWER_00017	寒霜冲击
 POWER_00018	龙息
+POWER_00019	炽焰法球
 ITEM_00001	长剑
 ITEM_00002	长棍
 ITEM_00003	鳞甲
@@ -99,6 +100,13 @@ EFFECT_00001	装备重甲
 EFFECT_00002	对<color=#4ECDC4>{0}</color><br>持续到遭遇结束
 EFFECT_00003	对<color=#4ECDC4>{0}</color>以外的敌人<br>持续到<color=#4ECDC4>{0}</color>下一回合结束
 EFFECT_00004	标记
+EFFECT_00005	<color=#4ECDC4>{0}</color>，无法移动
+EFFECT_00006	持续伤害
+EFFECT_00007	回合开始时造成持续伤害<br><color=#4ECDC4>豁免检定</color>结束
+EFFECT_00008	定身
+EFFECT_00009	<color=#4ECDC4>豁免检定</color>结束
+EFFECT_00010	目标相邻的每名<color=#4ECDC4>{0}</color>盟友
+EFFECT_00011	集群攻击
 TOOLTIP_00001	◆ <color=#FFD700><b>{0}</b></color>
 TOOLTIP_00002	<color=#6BFF6B>+{0}</color> {1}
 TOOLTIP_00003	<color=#FF6B6B>{0}</color> {1}
@@ -108,6 +116,7 @@ ROLE_NAME_0002	丹恩
 ROLE_NAME_0003	巴鲁
 ROLE_NAME_0004	科尔
 ROLE_NAME_0005	吉姆利
+UNIT_KEYWORD_001	狗头人
 MONSTER_NAME_0001	狗头人杂兵
 MONSTER_NAME_0002	狗头人投石手
 MONSTER_NAME_0003	狗头人龙盾兵

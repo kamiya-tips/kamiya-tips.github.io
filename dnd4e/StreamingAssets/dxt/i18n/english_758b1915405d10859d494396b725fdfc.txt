@@ -100,6 +100,13 @@ EFFECT_00001	Equip heavy armor
 EFFECT_00002	Vs <color=#4ECDC4>{0}</color><br>Until the end of the encounter
 EFFECT_00003	Vs non-<color=#4ECDC4>{0}</color><br>Until the end of <color=#4ECDC4>{0}</color> next turn
 EFFECT_00004	Mark
+EFFECT_00005	<color=#4ECDC4>{0}</color> can’t move
+EFFECT_00006	ongoing damage
+EFFECT_00007	Take ongoing damage <color=#4ECDC4>save ends</color>
+EFFECT_00008	Immobilized
+EFFECT_00009	<color=#4ECDC4>save ends</color>
+EFFECT_00010	per <color=#4ECDC4>{0}</color> ally adjacent to the target
+EFFECT_00011	Mob Attack
 TOOLTIP_00001	◆ <color=#FFD700><b>{0}</b></color>
 TOOLTIP_00002	<color=#6BFF6B>+{0}</color> {1}
 TOOLTIP_00003	<color=#FF6B6B>{0}</color> {1}
@@ -109,6 +116,7 @@ ROLE_NAME_0002	Dane
 ROLE_NAME_0003	Balu
 ROLE_NAME_0004	Cole
 ROLE_NAME_0005	Gimli
+UNIT_KEYWORD_001	Kobold
 MONSTER_NAME_0001	Kobold Minions
 MONSTER_NAME_0002	Kobold Slinger
 MONSTER_NAME_0003	Kobold Dragonshields

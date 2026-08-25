@@ -14,7 +14,7 @@
                 "Atlas/Common/UiCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "9f56d46599f7f8d43a072e3910b277a1"
+            "hash": "6afe8a3e1848dcd3af32dcb7fe602ab4"
         },
         {
             "name": "atlas/common/uihead.spriteatlasv2",
@@ -44,15 +44,16 @@
                 "Config/Monster/005.asset"
             ],
             "dependencies": [],
-            "hash": "be601ca82dd5eb2180c5058fc7915716"
+            "hash": "c4552f591b707bb2a710053becd3956f"
         },
         {
             "name": "fontasset",
             "assets": [
-                "FontAsset/AlimamaFangYuanTiVF-Thin SDF.asset"
+                "FontAsset/AlimamaFangYuanTiVF-Thin SDF.asset",
+                "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "8113ecf690dc7e9f671398db5e202491"
+            "hash": "a7563b39246da42bf0b11d85b512d677"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -163,8 +164,10 @@
             "assets": [
                 "Prefab/UI/Panel/CombatInfoPanel.prefab"
             ],
-            "dependencies": [],
-            "hash": "bd471bca0123c24361d0067928a39ecf"
+            "dependencies": [
+                "fontasset"
+            ],
+            "hash": "0de7c492c9da36276e99e49ef7763efe"
         },
         {
             "name": "prefab/ui/panel/confirmpanel.prefab",
@@ -263,11 +266,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "c4c1863a844cf22b019797998a1abd26"
+            "hash": "7ae45d7f99b5d53aa84295e27db6231b"
         },
         {
             "language": 10,
-            "hash": "56d16041899b7118a8314e23eec2fe63"
+            "hash": "758b1915405d10859d494396b725fdfc"
         }
     ],
     "AudioInfos": [
