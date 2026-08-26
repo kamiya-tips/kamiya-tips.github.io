@@ -107,6 +107,14 @@ EFFECT_00008	Immobilized
 EFFECT_00009	<color=#4ECDC4>save ends</color>
 EFFECT_00010	per <color=#4ECDC4>{0}</color> ally adjacent to the target
 EFFECT_00011	Mob Attack
+EFFECT_00012	Dragonborn Fury
+EFFECT_00013	When you’re <color=#4ECDC4>{0}</color>
+EFFECT_00014	Bloodied
+EFFECT_00015	until the start of next turn
+EFFECT_00016	All Defense
+EFFECT_00017	Run
+EFFECT_00018	Second Wind
+EFFECT_00019	Total Defense
 TOOLTIP_00001	◆ <color=#FFD700><b>{0}</b></color>
 TOOLTIP_00002	<color=#6BFF6B>+{0}</color> {1}
 TOOLTIP_00003	<color=#FF6B6B>{0}</color> {1}

@@ -107,6 +107,14 @@ EFFECT_00008	定身
 EFFECT_00009	<color=#4ECDC4>豁免检定</color>结束
 EFFECT_00010	目标相邻的每名<color=#4ECDC4>{0}</color>盟友
 EFFECT_00011	集群攻击
+EFFECT_00012	龙裔之怒
+EFFECT_00013	处于<color=#4ECDC4>{0}</color>状态下
+EFFECT_00014	浴血
+EFFECT_00015	持续到下一回合开始
+EFFECT_00016	全防御
+EFFECT_00017	奔跑
+EFFECT_00018	回气
+EFFECT_00019	全防御
 TOOLTIP_00001	◆ <color=#FFD700><b>{0}</b></color>
 TOOLTIP_00002	<color=#6BFF6B>+{0}</color> {1}
 TOOLTIP_00003	<color=#FF6B6B>{0}</color> {1}

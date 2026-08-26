@@ -14,7 +14,7 @@
                 "Atlas/Common/UiCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "d86ac1f3dd9790fb4faa3de6a4b87fe0"
+            "hash": "8b329775d10749c30efb33759129de24"
         },
         {
             "name": "atlas/common/uihead.spriteatlasv2",
@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "a7563b39246da42bf0b11d85b512d677"
+            "hash": "8d059a001a4ac6ed2642a6ca59415347"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -146,7 +146,7 @@
                 "prefab/ui/item/buttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "3d5a7e1a01461f1ff8ca5a8d4ff10872"
+            "hash": "ed9841ddbf4b4e0c11ceb26cec1a0eb4"
         },
         {
             "name": "prefab/ui/item/powerbuttonitem.prefab",
@@ -206,7 +206,7 @@
                 "prefab/ui/item/logtextitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "1defcb2b42fd4cd776aa50b428bd0f10"
+            "hash": "578f1145501a8b752b55639a398cb06d"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
@@ -266,11 +266,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "7ae45d7f99b5d53aa84295e27db6231b"
+            "hash": "f037ae5508e8f96a360a30ee3a48c33a"
         },
         {
             "language": 10,
-            "hash": "758b1915405d10859d494396b725fdfc"
+            "hash": "4c7495c6edf6089fa862206b85dd29c8"
         }
     ],
     "AudioInfos": [
