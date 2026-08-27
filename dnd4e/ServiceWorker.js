@@ -1,9 +1,9 @@
 const cacheName = "S6Team-Dnd4e-1.0";
 const contentToCache = [
-    "Build/aca6691f01286e9873f9e846eedc61e0.loader.js",
+    "Build/69e80961823acabd1072a0fa833add3e.loader.js",
     "Build/66061c6da569ddeec3c93dff6cd9ea63.framework.js.unityweb",
-    "Build/7291c53f27b38f4b3aa55ee7e318c3fc.data.unityweb",
-    "Build/5a70b2cd67264b1ce1c6d9b7d160aaea.wasm.unityweb",
+    "Build/eeaa1d4175e9c6bb59c33b0f3937fb4a.data.unityweb",
+    "Build/6df500852be07762607b99e59957c967.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
