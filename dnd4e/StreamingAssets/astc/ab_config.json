@@ -44,7 +44,7 @@
                 "Config/Monster/005.asset"
             ],
             "dependencies": [],
-            "hash": "1394268b65e228f24974d405b9b7c3b1"
+            "hash": "c4552f591b707bb2a710053becd3956f"
         },
         {
             "name": "fontasset",
@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "8d059a001a4ac6ed2642a6ca59415347"
+            "hash": "8744cbf2e88f63e8871cc1ab19820d9e"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -61,7 +61,7 @@
                 "Prefab/Scene/SpriteTemplate.prefab"
             ],
             "dependencies": [],
-            "hash": "ed5afb8b768cadde604cc6ef39ab750e"
+            "hash": "f4b7bc50b6845a3c0f17177d0c2e93ab"
         },
         {
             "name": "prefab/ui/item/attackitem.prefab",
@@ -266,11 +266,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "f037ae5508e8f96a360a30ee3a48c33a"
+            "hash": "441e10b358a0a1bbc9e5b42a0e84f412"
         },
         {
             "language": 10,
-            "hash": "4c7495c6edf6089fa862206b85dd29c8"
+            "hash": "19e2fdc340171ecacfdbffe083be2db9"
         }
     ],
     "AudioInfos": [

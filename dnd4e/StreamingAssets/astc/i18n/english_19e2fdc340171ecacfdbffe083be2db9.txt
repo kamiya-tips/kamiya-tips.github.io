@@ -31,6 +31,10 @@ TEXT_0026	This power can't be used
 TEXT_0027	Can't move while immobilized
 TEXT_0028	Speed
 TEXT_0029	Attack
+TEXT_0030	{0} Turn End
+TEXT_0031	{0} Save Ends
+TEXT_0032	Success
+TEXT_0033	Failed
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity

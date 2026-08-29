@@ -31,6 +31,10 @@ TEXT_0026	此威能不能再用了
 TEXT_0027	定身，无法移动
 TEXT_0028	速度
 TEXT_0029	攻击
+TEXT_0030	{0} 行动结束
+TEXT_0031	{0} 豁免鉴定
+TEXT_0032	成功
+TEXT_0033	失败
 ABILITY_0	力量
 ABILITY_1	体质
 ABILITY_2	敏捷
