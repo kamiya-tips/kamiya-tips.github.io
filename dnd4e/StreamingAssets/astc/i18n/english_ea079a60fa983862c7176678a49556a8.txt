@@ -35,6 +35,8 @@ TEXT_0030	{0} Turn End
 TEXT_0031	{0} Save Ends
 TEXT_0032	Success
 TEXT_0033	Failed
+TEXT_0034	Opportunity Attack
+TEXT_0035	From {0} to {1}
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity
@@ -119,6 +121,9 @@ EFFECT_00016	All Defense
 EFFECT_00017	Run
 EFFECT_00018	Second Wind
 EFFECT_00019	Total Defense
+MOVE_TYPE_01	Move
+MOVE_TYPE_02	Run
+MOVE_TYPE_03	Shift
 TOOLTIP_00001	◆ <color=#FFD700><b>{0}</b></color>
 TOOLTIP_00002	<color=#6BFF6B>+{0}</color> {1}
 TOOLTIP_00003	<color=#FF6B6B>{0}</color> {1}

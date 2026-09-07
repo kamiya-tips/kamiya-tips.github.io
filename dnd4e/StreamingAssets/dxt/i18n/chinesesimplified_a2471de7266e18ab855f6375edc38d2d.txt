@@ -35,6 +35,8 @@ TEXT_0030	{0} 行动结束
 TEXT_0031	{0} 豁免鉴定
 TEXT_0032	成功
 TEXT_0033	失败
+TEXT_0034	借机攻击
+TEXT_0035	从{0}到{1}
 ABILITY_0	力量
 ABILITY_1	体质
 ABILITY_2	敏捷
@@ -119,6 +121,9 @@ EFFECT_00016	全防御
 EFFECT_00017	奔跑
 EFFECT_00018	回气
 EFFECT_00019	全防御
+MOVE_TYPE_01	移动
+MOVE_TYPE_02	奔跑
+MOVE_TYPE_03	快步
 TOOLTIP_00001	◆ <color=#FFD700><b>{0}</b></color>
 TOOLTIP_00002	<color=#6BFF6B>+{0}</color> {1}
 TOOLTIP_00003	<color=#FF6B6B>{0}</color> {1}
