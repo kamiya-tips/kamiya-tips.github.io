@@ -293,6 +293,10 @@
         {
             "name": "effect/buttonclick",
             "hash": "ed3d43d4727982a38a67a30c8ba57bc9"
+        },
+        {
+            "name": "effect/victory",
+            "hash": "89f26e0c08e702189194c7e074abcfd3"
         }
     ]
 }
