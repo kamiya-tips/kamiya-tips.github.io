@@ -284,11 +284,11 @@
     "AudioInfos": [
         {
             "name": "bgm/battle",
-            "hash": "1a597a21b3d329b348a05b8180c09015"
+            "hash": "325d8d670f0aa61f756b045590026fad"
         },
         {
             "name": "bgm/start",
-            "hash": "a03842b739b786ac58ef6a1782f1c3d4"
+            "hash": "ec0eba21d1269ae48a60de9bccd8dbc2"
         },
         {
             "name": "effect/buttonclick",
@@ -296,7 +296,7 @@
         },
         {
             "name": "effect/victory",
-            "hash": "89f26e0c08e702189194c7e074abcfd3"
+            "hash": "8231bac895532e32c532dbe67309f2e7"
         }
     ]
 }
