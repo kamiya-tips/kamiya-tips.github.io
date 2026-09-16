@@ -99,6 +99,7 @@ POWER_00016	Scorching Burst
 POWER_00017	Chill Strike
 POWER_00018	Dragon Breath
 POWER_00019	Flaming Sphere
+POWER_00020	Dragonshield Tactics
 ITEM_00001	Longsword
 ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
@@ -121,6 +122,7 @@ EFFECT_00016	All Defense
 EFFECT_00017	Run
 EFFECT_00018	Second Wind
 EFFECT_00019	Total Defense
+EFFECT_00020	After an adjacent enemy <color=#4ECDC4>shift</color>, shift into the square it vacated
 MOVE_TYPE_01	Move
 MOVE_TYPE_02	Run
 MOVE_TYPE_03	Shift
