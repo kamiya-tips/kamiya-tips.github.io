@@ -44,7 +44,7 @@
                 "Config/Monster/005.asset"
             ],
             "dependencies": [],
-            "hash": "5ccd767a117834170570d5960b2d80c9"
+            "hash": "f697c06857564706ad51787170c7ff7e"
         },
         {
             "name": "fontasset",
@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "79d77fc320e6549d6164c8a9778f0484"
+            "hash": "5cfb61b0585f93a036ee979c9fef67bc"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -214,7 +214,7 @@
                 "prefab/ui/item/logtextitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "5d93d7197ef81fcfcb61c749276e0d87"
+            "hash": "55c4a6a1d9931d09a7948bccfe5c54ff"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
@@ -274,11 +274,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "6c6c552992fc9a6ac02e379f6a56d4cb"
+            "hash": "7fcd57ead74602fc96e4a50065f40240"
         },
         {
             "language": 10,
-            "hash": "3ec8d459d6ff590a00418a0097821109"
+            "hash": "6fa152594150e38a59a983d6f35dfecf"
         }
     ],
     "AudioInfos": [

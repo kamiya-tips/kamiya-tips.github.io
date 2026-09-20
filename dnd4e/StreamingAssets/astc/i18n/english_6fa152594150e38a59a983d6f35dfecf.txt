@@ -123,6 +123,11 @@ EFFECT_00017	Run
 EFFECT_00018	Second Wind
 EFFECT_00019	Total Defense
 EFFECT_00020	After an adjacent enemy <color=#4ECDC4>shift</color>, shift into the square it vacated
+EFFECT_00021	Until the end of <color=#4ECDC4>{0}</color> next turn
+EFFECT_00022	Slowed
+EFFECT_00023	<color=#4ECDC4>{0}</color> speed becomes 2
+EFFECT_00024	Dazed
+EFFECT_00025	<color=#4ECDC4>{0}</color> only take one action
 MOVE_TYPE_01	Move
 MOVE_TYPE_02	Run
 MOVE_TYPE_03	Shift

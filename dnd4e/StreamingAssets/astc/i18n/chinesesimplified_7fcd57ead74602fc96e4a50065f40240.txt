@@ -123,6 +123,11 @@ EFFECT_00017	奔跑
 EFFECT_00018	回气
 EFFECT_00019	全防御
 EFFECT_00020	当相邻敌人<color=#4ECDC4>快步</color>后，快步进入其离开的格子
+EFFECT_00021	持续到<color=#4ECDC4>{0}</color>下一回合结束
+EFFECT_00022	减速
+EFFECT_00023	<color=#4ECDC4>{0}</color>，速度降为2
+EFFECT_00024	眩晕
+EFFECT_00025	<color=#4ECDC4>{0}</color>，只能进行一个动作
 MOVE_TYPE_01	移动
 MOVE_TYPE_02	奔跑
 MOVE_TYPE_03	快步
