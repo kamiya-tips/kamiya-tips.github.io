@@ -128,6 +128,8 @@ EFFECT_00022	Slowed
 EFFECT_00023	<color=#4ECDC4>{0}</color> speed becomes 2
 EFFECT_00024	Dazed
 EFFECT_00025	<color=#4ECDC4>{0}</color> only take one action
+EFFECT_00026	Staff of Defense
+EFFECT_00027	When hit, if attack roll is less than <br><color=#4ECDC4>AC + Constitution modifier</color>, negate it
 MOVE_TYPE_01	Move
 MOVE_TYPE_02	Run
 MOVE_TYPE_03	Shift

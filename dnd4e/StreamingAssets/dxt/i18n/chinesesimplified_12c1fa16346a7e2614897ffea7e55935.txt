@@ -128,6 +128,8 @@ EFFECT_00022	减速
 EFFECT_00023	<color=#4ECDC4>{0}</color>，速度降为2
 EFFECT_00024	眩晕
 EFFECT_00025	<color=#4ECDC4>{0}</color>，只能进行一个动作
+EFFECT_00026	法杖防御
+EFFECT_00027	被命中时，如果攻击小于<br><color=#4ECDC4>AC + 体质调整值</color>，抵消一次伤害
 MOVE_TYPE_01	移动
 MOVE_TYPE_02	奔跑
 MOVE_TYPE_03	快步
