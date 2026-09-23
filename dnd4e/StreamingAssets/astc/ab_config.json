@@ -44,7 +44,7 @@
                 "Config/Monster/005.asset"
             ],
             "dependencies": [],
-            "hash": "f697c06857564706ad51787170c7ff7e"
+            "hash": "090a14e44d5693db8651a046cea49ff7"
         },
         {
             "name": "fontasset",
@@ -274,11 +274,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "12c1fa16346a7e2614897ffea7e55935"
+            "hash": "50bc72b1fe3f4317b6205fda59ba23b7"
         },
         {
             "language": 10,
-            "hash": "c341067cb367aed2c48eb3b043eb0959"
+            "hash": "a2751a843c8a0030f3f0ccbdc31e5334"
         }
     ],
     "AudioInfos": [

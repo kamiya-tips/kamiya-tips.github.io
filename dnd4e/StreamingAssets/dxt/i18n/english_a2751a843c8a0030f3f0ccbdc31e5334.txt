@@ -37,6 +37,7 @@ TEXT_0032	Success
 TEXT_0033	Failed
 TEXT_0034	Opportunity Attack
 TEXT_0035	From {0} to {1}
+TEXT_0036	Finish
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity
