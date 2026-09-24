@@ -6,7 +6,7 @@
                 "Atlas/Common/SceneCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "0c7595b4431345e0554cfa5292768458"
+            "hash": "3a70b907f0e3babe876a8d5f375a5a20"
         },
         {
             "name": "atlas/common/uicommon.spriteatlasv2",
@@ -14,7 +14,7 @@
                 "Atlas/Common/UiCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "a017ef55a39f94dbf86fdfcc9845a4df"
+            "hash": "2a3c422c200b35c949b5a8a869a4b52c"
         },
         {
             "name": "atlas/common/uihead.spriteatlasv2",
