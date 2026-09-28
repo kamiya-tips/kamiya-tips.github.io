@@ -14,7 +14,7 @@
                 "Atlas/Common/UiCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "2a3c422c200b35c949b5a8a869a4b52c"
+            "hash": "7a3d351310dff9e8ac68dd10c37bb17a"
         },
         {
             "name": "atlas/common/uihead.spriteatlasv2",
@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "ffd3f5a0754f08539d442b09827ce702"
+            "hash": "6f29a269aeb942cc0412031414a212d7"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -144,6 +144,16 @@
             "hash": "ce0df7369691675867afa207b3bbb27e"
         },
         {
+            "name": "prefab/ui/item/movebuttonitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/MoveButtonItem.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2"
+            ],
+            "hash": "f8e712fdd8726044bbb76fcb540d3079"
+        },
+        {
             "name": "prefab/ui/item/opgroupitem.prefab",
             "assets": [
                 "Prefab/UI/Item/OpGroupItem.prefab"
@@ -152,9 +162,10 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset",
                 "prefab/ui/item/buttonitem.prefab",
+                "prefab/ui/item/movebuttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "ed9841ddbf4b4e0c11ceb26cec1a0eb4"
+            "hash": "b9a385fe33d0a31667baa6a4c8d9e71c"
         },
         {
             "name": "prefab/ui/item/powerbuttonitem.prefab",
@@ -212,9 +223,10 @@
                 "prefab/ui/item/buttonitem.prefab",
                 "prefab/ui/item/headitem.prefab",
                 "prefab/ui/item/logtextitem.prefab",
+                "prefab/ui/item/movebuttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "55c4a6a1d9931d09a7948bccfe5c54ff"
+            "hash": "5feec99c091f3bd7bc2ede5f912f1413"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
