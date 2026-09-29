@@ -38,6 +38,7 @@ TEXT_0033	失败
 TEXT_0034	借机攻击
 TEXT_0035	从{0}到{1}
 TEXT_0036	结束
+TEXT_0037	{0}消失了
 ABILITY_0	力量
 ABILITY_1	体质
 ABILITY_2	敏捷
@@ -81,6 +82,9 @@ SKILL_13	宗教
 SKILL_14	潜行
 SKILL_15	市井
 SKILL_16	盗窃
+ACTION_0	标准动作
+ACTION_1	移动动作
+ACTION_2	次要动作
 POWER_00001	冲锋
 POWER_00002	长矛
 POWER_00003	标枪
@@ -131,6 +135,7 @@ EFFECT_00024	眩晕
 EFFECT_00025	<color=#4ECDC4>{0}</color>，只能进行一个动作
 EFFECT_00026	法杖防御
 EFFECT_00027	被命中时，如果攻击小于<br><color=#4ECDC4>AC + 体质调整值</color>，抵消一次伤害
+EFFECT_00028	需要消耗<color=#4ECDC4>{0}</color>进行维持
 MOVE_TYPE_01	移动
 MOVE_TYPE_02	奔跑
 MOVE_TYPE_03	快步

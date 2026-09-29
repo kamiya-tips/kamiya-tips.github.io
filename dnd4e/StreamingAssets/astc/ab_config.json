@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "6f29a269aeb942cc0412031414a212d7"
+            "hash": "6c212c9e9f915771febd15b478d81a92"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -144,6 +144,16 @@
             "hash": "ce0df7369691675867afa207b3bbb27e"
         },
         {
+            "name": "prefab/ui/item/minorbuttonitem.prefab",
+            "assets": [
+                "Prefab/UI/Item/MinorButtonItem.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2"
+            ],
+            "hash": "39bd926f73a650e102034a1170b7538d"
+        },
+        {
             "name": "prefab/ui/item/movebuttonitem.prefab",
             "assets": [
                 "Prefab/UI/Item/MoveButtonItem.prefab"
@@ -162,10 +172,11 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset",
                 "prefab/ui/item/buttonitem.prefab",
+                "prefab/ui/item/minorbuttonitem.prefab",
                 "prefab/ui/item/movebuttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "b9a385fe33d0a31667baa6a4c8d9e71c"
+            "hash": "f5c3f4b3e3ff823d96531810cc0f0719"
         },
         {
             "name": "prefab/ui/item/powerbuttonitem.prefab",
@@ -223,10 +234,11 @@
                 "prefab/ui/item/buttonitem.prefab",
                 "prefab/ui/item/headitem.prefab",
                 "prefab/ui/item/logtextitem.prefab",
+                "prefab/ui/item/minorbuttonitem.prefab",
                 "prefab/ui/item/movebuttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "5feec99c091f3bd7bc2ede5f912f1413"
+            "hash": "a52aeecaec6395d69352c4f728ac0316"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
@@ -286,11 +298,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "50bc72b1fe3f4317b6205fda59ba23b7"
+            "hash": "3d4c58508fb1d9e2ff7b8373f3035c36"
         },
         {
             "language": 10,
-            "hash": "a2751a843c8a0030f3f0ccbdc31e5334"
+            "hash": "4e662461de7e89241b7df908205039cc"
         }
     ],
     "AudioInfos": [

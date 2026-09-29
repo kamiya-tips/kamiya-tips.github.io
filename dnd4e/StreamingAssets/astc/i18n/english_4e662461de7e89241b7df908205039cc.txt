@@ -38,6 +38,7 @@ TEXT_0033	Failed
 TEXT_0034	Opportunity Attack
 TEXT_0035	From {0} to {1}
 TEXT_0036	Finish
+TEXT_0037	{0} disappear
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity
@@ -81,6 +82,9 @@ SKILL_13	Religion
 SKILL_14	Stealth
 SKILL_15	Streetwise
 SKILL_16	Thievery
+ACTION_0	Standard Action
+ACTION_1	Move Action
+ACTION_2	Minor Action
 POWER_00001	Charge
 POWER_00002	Spear
 POWER_00003	Javelin
@@ -131,6 +135,7 @@ EFFECT_00024	Dazed
 EFFECT_00025	<color=#4ECDC4>{0}</color> only take one action
 EFFECT_00026	Staff of Defense
 EFFECT_00027	When hit, if attack roll is less than <br><color=#4ECDC4>AC + Constitution modifier</color>, negate it
+EFFECT_00028	Requires a <color=#4ECDC4>{0}</color> to sustain
 MOVE_TYPE_01	Move
 MOVE_TYPE_02	Run
 MOVE_TYPE_03	Shift
