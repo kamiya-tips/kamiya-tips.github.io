@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "6099e8601d61aaa90f22b13fc871b2bf"
+            "hash": "9cf7a8c30d8c8aa46f32445ccbd90004"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -97,9 +97,10 @@
                 "Prefab/UI/Item/ButtonItem.prefab"
             ],
             "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "20ef3031c806b64e303b133fdf25fce7"
+            "hash": "374b22b2275377e319fcc9d0d30cb99b"
         },
         {
             "name": "prefab/ui/item/defenseitem.prefab",
@@ -149,9 +150,10 @@
                 "Prefab/UI/Item/MinorButtonItem.prefab"
             ],
             "dependencies": [
-                "atlas/common/uicommon.spriteatlasv2"
+                "atlas/common/uicommon.spriteatlasv2",
+                "fontasset"
             ],
-            "hash": "39bd926f73a650e102034a1170b7538d"
+            "hash": "2484a1fc043c55eada38d242dea1801a"
         },
         {
             "name": "prefab/ui/item/movebuttonitem.prefab",
@@ -159,9 +161,10 @@
                 "Prefab/UI/Item/MoveButtonItem.prefab"
             ],
             "dependencies": [
-                "atlas/common/uicommon.spriteatlasv2"
+                "atlas/common/uicommon.spriteatlasv2",
+                "fontasset"
             ],
-            "hash": "f8e712fdd8726044bbb76fcb540d3079"
+            "hash": "1499ed9c44be687396b1c6bc88fb8f96"
         },
         {
             "name": "prefab/ui/item/opgroupitem.prefab",
@@ -176,7 +179,7 @@
                 "prefab/ui/item/movebuttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "ce4e8a65cc8b7cf40cfbaf68e12e5057"
+            "hash": "d329be8c98b245e2e618e650228f5c35"
         },
         {
             "name": "prefab/ui/item/powerbuttonitem.prefab",
@@ -187,7 +190,7 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "cfbc6432c705128a78492916a9ca152e"
+            "hash": "7e35d31cf75662f638bb087d4ba66e52"
         },
         {
             "name": "prefab/ui/panel/combatinfopanel.prefab",
@@ -238,7 +241,7 @@
                 "prefab/ui/item/movebuttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "26822fbd6e48d87b15ee95750dd2eb7d"
+            "hash": "9ffd34779af18db0ec059adbc2a60b91"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
@@ -298,11 +301,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "3d4c58508fb1d9e2ff7b8373f3035c36"
+            "hash": "8269972552a6e0309066a75d9098abf6"
         },
         {
             "language": 10,
-            "hash": "4e662461de7e89241b7df908205039cc"
+            "hash": "0e760824fc1bc0e937da70293f0cd9eb"
         }
     ],
     "AudioInfos": [

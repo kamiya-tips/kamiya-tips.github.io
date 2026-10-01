@@ -39,6 +39,12 @@ TEXT_0034	借机攻击
 TEXT_0035	从{0}到{1}
 TEXT_0036	结束
 TEXT_0037	{0}消失了
+TEXT_0038	回合结束
+TEXT_0039	威能
+TEXT_0040	返回
+TEXT_0041	起身
+TEXT_0042	卧倒
+TEXT_0043	下一个
 ABILITY_0	力量
 ABILITY_1	体质
 ABILITY_2	敏捷
@@ -139,6 +145,7 @@ EFFECT_00028	需要消耗<color=#4ECDC4>{0}</color>进行维持
 MOVE_TYPE_01	移动
 MOVE_TYPE_02	奔跑
 MOVE_TYPE_03	快步
+MOVE_TYPE_04	爬行
 TOOLTIP_00001	◆ <color=#FFD700><b>{0}</b></color>
 TOOLTIP_00002	<color=#6BFF6B>+{0}</color> {1}
 TOOLTIP_00003	<color=#FF6B6B>{0}</color> {1}

@@ -39,6 +39,12 @@ TEXT_0034	Opportunity Attack
 TEXT_0035	From {0} to {1}
 TEXT_0036	Finish
 TEXT_0037	{0} disappear
+TEXT_0038	End
+TEXT_0039	Power
+TEXT_0040	Back
+TEXT_0041	Standup
+TEXT_0042	Prone
+TEXT_0043	Next
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity
@@ -139,6 +145,7 @@ EFFECT_00028	Requires a <color=#4ECDC4>{0}</color> to sustain
 MOVE_TYPE_01	Move
 MOVE_TYPE_02	Run
 MOVE_TYPE_03	Shift
+MOVE_TYPE_04	Crawl
 TOOLTIP_00001	◆ <color=#FFD700><b>{0}</b></color>
 TOOLTIP_00002	<color=#6BFF6B>+{0}</color> {1}
 TOOLTIP_00003	<color=#FF6B6B>{0}</color> {1}
