@@ -114,6 +114,8 @@ POWER_00020	龙盾战术
 ITEM_00001	长剑
 ITEM_00002	长棍
 ITEM_00003	鳞甲
+TALENT_00001	灵活移动
+TALENT_00002	快步消耗<color=#4ECDC4>次要动作</color>
 EFFECT_00001	装备重甲
 EFFECT_00002	对<color=#4ECDC4>{0}</color><br>持续到遭遇结束
 EFFECT_00003	对<color=#4ECDC4>{0}</color>以外的敌人<br>持续到<color=#4ECDC4>{0}</color>下一回合结束

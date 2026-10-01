@@ -114,6 +114,8 @@ POWER_00020	Dragonshield Tactics
 ITEM_00001	Longsword
 ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
+TALENT_00001	Shifty
+TALENT_00002	Shift as a <color=#4ECDC4>Minor Action</color>
 EFFECT_00001	Equip heavy armor
 EFFECT_00002	Vs <color=#4ECDC4>{0}</color><br>Until the end of the encounter
 EFFECT_00003	Vs non-<color=#4ECDC4>{0}</color><br>Until the end of <color=#4ECDC4>{0}</color> next turn
