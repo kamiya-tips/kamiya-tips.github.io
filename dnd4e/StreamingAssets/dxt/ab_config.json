@@ -14,7 +14,7 @@
                 "Atlas/Common/UiCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "4f04c115f020197301b084b71b2efacc"
+            "hash": "d3d7ca3c4c95c1daa9f3c244b0c29603"
         },
         {
             "name": "atlas/common/uihead.spriteatlasv2",
@@ -44,7 +44,7 @@
                 "Config/Monster/005.asset"
             ],
             "dependencies": [],
-            "hash": "66b93ccd22ef45375007b95a2941ce91"
+            "hash": "b5a3b193e8a74940733eebc6b6067f9e"
         },
         {
             "name": "fontasset",
@@ -301,7 +301,7 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "cebfc9abbe327fd489b4a71afe4680ff"
+            "hash": "64f56e7c0574e6f6eb3a1ab9c85dc6a4"
         },
         {
             "language": 10,
