@@ -114,6 +114,7 @@ POWER_00020	Dragonshield Tactics
 ITEM_00001	Longsword
 ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
+ITEM_00004	Warhammer
 TALENT_00001	Shifty
 TALENT_00002	Shift as a <color=#4ECDC4>Minor Action</color>
 EFFECT_00001	Equip heavy armor
