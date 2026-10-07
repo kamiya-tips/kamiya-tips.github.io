@@ -111,6 +111,10 @@ POWER_00017	寒霜冲击
 POWER_00018	龙息
 POWER_00019	炽焰法球
 POWER_00020	龙盾战术
+POWER_00021	信仰之矛
+POWER_00022	神圣之火
+POWER_00023	神恩之光
+POWER_00024	圣光瀑布
 ITEM_00001	长剑
 ITEM_00002	长棍
 ITEM_00003	鳞甲
@@ -145,6 +149,7 @@ EFFECT_00025	<color=#4ECDC4>{0}</color>，只能进行一个动作
 EFFECT_00026	法杖防御
 EFFECT_00027	被命中时，如果攻击小于<br><color=#4ECDC4>AC + 体质调整值</color>，抵消一次伤害
 EFFECT_00028	需要消耗<color=#4ECDC4>{0}</color>进行维持
+EFFECT_00029	对<color=#4ECDC4>{0}</color>的下次一攻击
 MOVE_TYPE_01	移动
 MOVE_TYPE_02	奔跑
 MOVE_TYPE_03	快步

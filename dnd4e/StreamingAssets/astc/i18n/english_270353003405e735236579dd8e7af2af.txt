@@ -111,6 +111,10 @@ POWER_00017	Chill Strike
 POWER_00018	Dragon Breath
 POWER_00019	Flaming Sphere
 POWER_00020	Dragonshield Tactics
+POWER_00021	Lance of Faith
+POWER_00022	Sacred Flame
+POWER_00023	Divine Glow
+POWER_00024	Cascade of Light
 ITEM_00001	Longsword
 ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
@@ -145,6 +149,7 @@ EFFECT_00025	<color=#4ECDC4>{0}</color> only take one action
 EFFECT_00026	Staff of Defense
 EFFECT_00027	When hit, if attack roll is less than <br><color=#4ECDC4>AC + Constitution modifier</color>, negate it
 EFFECT_00028	Requires a <color=#4ECDC4>{0}</color> to sustain
+EFFECT_00029	The next attack against <color=#4ECDC4>{0}</color>
 MOVE_TYPE_01	Move
 MOVE_TYPE_02	Run
 MOVE_TYPE_03	Shift
