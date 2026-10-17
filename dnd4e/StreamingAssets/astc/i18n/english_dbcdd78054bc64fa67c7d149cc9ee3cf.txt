@@ -20,9 +20,9 @@ TEXT_0015	Hit
 TEXT_0016	r {0} = {1} {2}
 TEXT_0017	HIT
 TEXT_0018	MISS
-TEXT_0019	Damage r {0} = {1}
+TEXT_0019	{0} r {1} = {2}
 TEXT_0020	Critical
-TEXT_0021	Damage {0}
+TEXT_0021	{0} {1}
 TEXT_0022	Victory for {0}
 TEXT_0023	No minor actions left
 TEXT_0024	Minor action already used. Do you want to spend a move action?
@@ -45,6 +45,9 @@ TEXT_0040	Back
 TEXT_0041	Standup
 TEXT_0042	Prone
 TEXT_0043	Next
+TEXT_0044	Heal
+TEXT_0045	Shield
+TEXT_0046	Damage
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity

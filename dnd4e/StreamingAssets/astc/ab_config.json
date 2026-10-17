@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "b28e9cc40c873099588f38eb7c634437"
+            "hash": "7fced2fd94d400aea36444cbaa8d80ba"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -110,7 +110,7 @@
             "dependencies": [
                 "fontasset"
             ],
-            "hash": "7199abb24338a2eab5d05985a29ac9b6"
+            "hash": "419379817b2ac1ec9dff366c60019fc8"
         },
         {
             "name": "prefab/ui/item/headitem.prefab",
@@ -241,7 +241,7 @@
                 "prefab/ui/item/movebuttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "9ffd34779af18db0ec059adbc2a60b91"
+            "hash": "167037ee2636ac683f1d0a977055d7f1"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
@@ -301,11 +301,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "e9abbc5d3eb680fbc9974dd10facb89d"
+            "hash": "1bb9cf2f4a2806ecba659d4feb10f5f6"
         },
         {
             "language": 10,
-            "hash": "270353003405e735236579dd8e7af2af"
+            "hash": "dbcdd78054bc64fa67c7d149cc9ee3cf"
         }
     ],
     "AudioInfos": [
