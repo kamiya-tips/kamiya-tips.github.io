@@ -48,6 +48,8 @@ TEXT_0043	下一个
 TEXT_0044	治疗
 TEXT_0045	护盾
 TEXT_0046	伤害
+TEXT_0047	易伤
+TEXT_0048	 / {0} = {1}
 ABILITY_0	力量
 ABILITY_1	体质
 ABILITY_2	敏捷
@@ -118,6 +120,7 @@ POWER_00021	信仰之矛
 POWER_00022	神圣之火
 POWER_00023	神恩之光
 POWER_00024	圣光瀑布
+POWER_00025	治愈真言
 ITEM_00001	长剑
 ITEM_00002	长棍
 ITEM_00003	鳞甲
@@ -153,6 +156,7 @@ EFFECT_00026	法杖防御
 EFFECT_00027	被命中时，如果攻击小于<br><color=#4ECDC4>AC + 体质调整值</color>，抵消一次伤害
 EFFECT_00028	需要消耗<color=#4ECDC4>{0}</color>进行维持
 EFFECT_00029	对<color=#4ECDC4>{0}</color>的下次一攻击
+EFFECT_00030	被<color=#4ECDC4>{0}</color>攻击时<br><color=#4ECDC4>豁免检定</color>结束
 MOVE_TYPE_01	移动
 MOVE_TYPE_02	奔跑
 MOVE_TYPE_03	快步

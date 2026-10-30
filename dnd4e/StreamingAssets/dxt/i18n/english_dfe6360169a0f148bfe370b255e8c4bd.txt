@@ -48,6 +48,8 @@ TEXT_0043	Next
 TEXT_0044	Heal
 TEXT_0045	Shield
 TEXT_0046	Damage
+TEXT_0047	Vulnerability
+TEXT_0048	 / {0} = {1}
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity
@@ -118,6 +120,7 @@ POWER_00021	Lance of Faith
 POWER_00022	Sacred Flame
 POWER_00023	Divine Glow
 POWER_00024	Cascade of Light
+POWER_00025	Healing Word
 ITEM_00001	Longsword
 ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
@@ -153,6 +156,7 @@ EFFECT_00026	Staff of Defense
 EFFECT_00027	When hit, if attack roll is less than <br><color=#4ECDC4>AC + Constitution modifier</color>, negate it
 EFFECT_00028	Requires a <color=#4ECDC4>{0}</color> to sustain
 EFFECT_00029	The next attack against <color=#4ECDC4>{0}</color>
+EFFECT_00030	Attack By <color=#4ECDC4>{0}</color><br><color=#4ECDC4>save ends</color>
 MOVE_TYPE_01	Move
 MOVE_TYPE_02	Run
 MOVE_TYPE_03	Shift
