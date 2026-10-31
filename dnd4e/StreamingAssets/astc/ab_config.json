@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "2ffdfa2b38a76a346e925ffb4b3e4717"
+            "hash": "d9d011361917498f970a86fd1e43ddbd"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -100,7 +100,7 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "374b22b2275377e319fcc9d0d30cb99b"
+            "hash": "9ddcdd85ec042b9d2af42be6ad4f1216"
         },
         {
             "name": "prefab/ui/item/defenseitem.prefab",
@@ -153,7 +153,7 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "adf821deabc0c1068f19c0b6c95816eb"
+            "hash": "fb214184fbe602735f7c279478b2bbfb"
         },
         {
             "name": "prefab/ui/item/movebuttonitem.prefab",
@@ -164,7 +164,7 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "1499ed9c44be687396b1c6bc88fb8f96"
+            "hash": "4a1b9bfe72da569aae51879da52d448d"
         },
         {
             "name": "prefab/ui/item/opgroupitem.prefab",
@@ -179,7 +179,7 @@
                 "prefab/ui/item/movebuttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "d329be8c98b245e2e618e650228f5c35"
+            "hash": "f9d9bb7836331489f276005caa26613b"
         },
         {
             "name": "prefab/ui/item/powerbuttonitem.prefab",
@@ -190,7 +190,7 @@
                 "atlas/common/uicommon.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "7e35d31cf75662f638bb087d4ba66e52"
+            "hash": "1e5b0b930ef91dd42ec0a62bc9f666dd"
         },
         {
             "name": "prefab/ui/panel/combatinfopanel.prefab",
@@ -241,7 +241,7 @@
                 "prefab/ui/item/movebuttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "167037ee2636ac683f1d0a977055d7f1"
+            "hash": "55ccb8d48bed67210e93da533cebdb0c"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
@@ -301,7 +301,7 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "b9009b45c180d46c7d05eeb833006a08"
+            "hash": "97b5d62b46e7daadd490124e991fb8d4"
         },
         {
             "language": 10,
