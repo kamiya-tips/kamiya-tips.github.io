@@ -14,7 +14,7 @@
                 "Atlas/Common/UiCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "04684eaa305c534d99ee814240244ed8"
+            "hash": "26df894f26280cab32e1644d171cb6d8"
         },
         {
             "name": "atlas/common/uihead.spriteatlasv2",
@@ -44,7 +44,7 @@
                 "Config/Monster/005.asset"
             ],
             "dependencies": [],
-            "hash": "b5a3b193e8a74940733eebc6b6067f9e"
+            "hash": "3e736e990dae40b04725f48adade2644"
         },
         {
             "name": "fontasset",
@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "d9d011361917498f970a86fd1e43ddbd"
+            "hash": "7b9371c4b6ad98e50c70633a95a84663"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -301,11 +301,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "97b5d62b46e7daadd490124e991fb8d4"
+            "hash": "33eb32581f7d7a8dbf042f7428be2607"
         },
         {
             "language": 10,
-            "hash": "dfe6360169a0f148bfe370b255e8c4bd"
+            "hash": "49454e53f91951d61470c392393d10a1"
         }
     ],
     "AudioInfos": [

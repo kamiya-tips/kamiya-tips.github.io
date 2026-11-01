@@ -14,7 +14,7 @@ TEXT_0009	不能再移动了
 TEXT_0010	不能再做标准动作了
 TEXT_0011	不能跟同伴重叠
 TEXT_0012	回气已用完
-TEXT_0013	没有目标
+TEXT_0013	暂不可用
 TEXT_0014	伤害
 TEXT_0015	命中
 TEXT_0016	r {0} = {1} {2}
@@ -51,6 +51,7 @@ TEXT_0046	伤害
 TEXT_0047	易伤
 TEXT_0048	 / {0} = {1}
 TEXT_0049	行动
+TEXT_0050	豁免鉴定
 ABILITY_0	力量
 ABILITY_1	体质
 ABILITY_2	敏捷
@@ -128,6 +129,7 @@ ITEM_00003	鳞甲
 ITEM_00004	战锤
 TALENT_00001	灵活移动
 TALENT_00002	快步消耗<color=#4ECDC4>次要动作</color>
+TALENT_00003	神圣命运
 EFFECT_00001	装备重甲
 EFFECT_00002	对<color=#4ECDC4>{0}</color><br>持续到遭遇结束
 EFFECT_00003	对<color=#4ECDC4>{0}</color>以外的敌人<br>持续到<color=#4ECDC4>{0}</color>下一回合结束
@@ -158,6 +160,7 @@ EFFECT_00027	被命中时，如果攻击小于<br><color=#4ECDC4>AC + 体质调�
 EFFECT_00028	需要消耗<color=#4ECDC4>{0}</color>进行维持
 EFFECT_00029	对<color=#4ECDC4>{0}</color>的下次一攻击
 EFFECT_00030	被<color=#4ECDC4>{0}</color>攻击时<br><color=#4ECDC4>豁免检定</color>结束
+EFFECT_00031	在下一回合结束前<br>下一次<color=#4ECDC4>攻击</color>或<color=#4ECDC4>豁免检定</color>
 MOVE_TYPE_01	移动
 MOVE_TYPE_02	奔跑
 MOVE_TYPE_03	快步

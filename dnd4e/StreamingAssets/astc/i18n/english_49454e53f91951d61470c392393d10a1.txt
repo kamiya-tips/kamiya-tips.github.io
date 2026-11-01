@@ -14,7 +14,7 @@ TEXT_0009	No move actions left
 TEXT_0010	No standard actions left
 TEXT_0011	Cannot overlap with companions
 TEXT_0012	Out of second wind
-TEXT_0013	No target
+TEXT_0013	Cannot do it
 TEXT_0014	Damage
 TEXT_0015	Hit
 TEXT_0016	r {0} = {1} {2}
