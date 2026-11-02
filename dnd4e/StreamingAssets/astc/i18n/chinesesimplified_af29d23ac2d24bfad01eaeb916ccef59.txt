@@ -9,8 +9,8 @@ TEXT_0004	r d20{0} = {1}
 TEXT_0005	{0} 行动
 TEXT_0006	{0}/{1}
 TEXT_0007	HP
-TEXT_0008	移动动作已使用，是否消耗标准动作？
-TEXT_0009	不能再移动了
+TEXT_0008	{0}已使用，是否消耗{1}？
+TEXT_0009	行动力不足
 TEXT_0010	不能再做标准动作了
 TEXT_0011	不能跟同伴重叠
 TEXT_0012	回气已用完
@@ -95,9 +95,10 @@ SKILL_13	宗教
 SKILL_14	潜行
 SKILL_15	市井
 SKILL_16	盗窃
-ACTION_0	标准动作
-ACTION_1	移动动作
-ACTION_2	次要动作
+ACTION_0	<color=#FFC107>行动点</color>
+ACTION_1	<color=#E53935>标准动作</color>
+ACTION_2	<color=#2196F3>移动动作</color>
+ACTION_3	<color=#43A047>次要动作</color>
 POWER_00001	冲锋
 POWER_00002	长矛
 POWER_00003	标枪
@@ -128,7 +129,7 @@ ITEM_00002	长棍
 ITEM_00003	鳞甲
 ITEM_00004	战锤
 TALENT_00001	灵活移动
-TALENT_00002	快步消耗<color=#4ECDC4>次要动作</color>
+TALENT_00002	快步消耗<color=#43A047>次要动作</color>
 TALENT_00003	神圣命运
 EFFECT_00001	装备重甲
 EFFECT_00002	对<color=#4ECDC4>{0}</color><br>持续到遭遇结束

@@ -9,8 +9,8 @@ TEXT_0004	r d20{0} = {1}
 TEXT_0005	{0} Turn
 TEXT_0006	{0}/{1}
 TEXT_0007	HP
-TEXT_0008	Move action already used. Do you want to spend a standard action?
-TEXT_0009	No move actions left
+TEXT_0008	{0} already used. Do you want to spend a {1}?
+TEXT_0009	No actions left
 TEXT_0010	No standard actions left
 TEXT_0011	Cannot overlap with companions
 TEXT_0012	Out of second wind
@@ -50,6 +50,8 @@ TEXT_0045	Shield
 TEXT_0046	Damage
 TEXT_0047	Vulnerability
 TEXT_0048	 / {0} = {1}
+TEXT_0049	Action
+TEXT_0050	Saving throw
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity
@@ -93,9 +95,10 @@ SKILL_13	Religion
 SKILL_14	Stealth
 SKILL_15	Streetwise
 SKILL_16	Thievery
-ACTION_0	Standard Action
-ACTION_1	Move Action
-ACTION_2	Minor Action
+ACTION_0	<color=#FFC107>Action Point</color>
+ACTION_1	<color=#E53935>Standard Action</color>
+ACTION_2	<color=#2196F3>Move Action</color>
+ACTION_3	<color=#43A047>Minor Action</color>
 POWER_00001	Charge
 POWER_00002	Spear
 POWER_00003	Javelin
@@ -126,7 +129,8 @@ ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
 ITEM_00004	Warhammer
 TALENT_00001	Shifty
-TALENT_00002	Shift as a <color=#4ECDC4>Minor Action</color>
+TALENT_00002	Shift as a <color=#43A047>Minor Action</color>
+TALENT_00003	Divine Fortune
 EFFECT_00001	Equip heavy armor
 EFFECT_00002	Vs <color=#4ECDC4>{0}</color><br>Until the end of the encounter
 EFFECT_00003	Vs non-<color=#4ECDC4>{0}</color><br>Until the end of <color=#4ECDC4>{0}</color> next turn
@@ -157,6 +161,7 @@ EFFECT_00027	When hit, if attack roll is less than <br><color=#4ECDC4>AC + Const
 EFFECT_00028	Requires a <color=#4ECDC4>{0}</color> to sustain
 EFFECT_00029	The next attack against <color=#4ECDC4>{0}</color>
 EFFECT_00030	Attack By <color=#4ECDC4>{0}</color><br><color=#4ECDC4>save ends</color>
+EFFECT_00031	to your next <color=#4ECDC4>attack roll</color> or <color=#4ECDC4>saving throw</color><br>before the end of your next turn
 MOVE_TYPE_01	Move
 MOVE_TYPE_02	Run
 MOVE_TYPE_03	Shift
