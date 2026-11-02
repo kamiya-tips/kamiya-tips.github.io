@@ -61,7 +61,7 @@
                 "Prefab/Scene/SpriteTemplate.prefab"
             ],
             "dependencies": [],
-            "hash": "ed5afb8b768cadde604cc6ef39ab750e"
+            "hash": "f4b7bc50b6845a3c0f17177d0c2e93ab"
         },
         {
             "name": "prefab/scene/unittemplate.prefab",
@@ -69,7 +69,7 @@
                 "Prefab/Scene/UnitTemplate.prefab"
             ],
             "dependencies": [],
-            "hash": "26e605ab5f6ba5c6b8d6aaf471eba783"
+            "hash": "78a989f46c616e260bd331599bc49753"
         },
         {
             "name": "prefab/ui/item/attackitem.prefab",
