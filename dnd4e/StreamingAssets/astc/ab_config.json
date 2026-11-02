@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "7b9371c4b6ad98e50c70633a95a84663"
+            "hash": "ec6f581be1f623a4c3582ccc717633da"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -61,7 +61,7 @@
                 "Prefab/Scene/SpriteTemplate.prefab"
             ],
             "dependencies": [],
-            "hash": "ed5afb8b768cadde604cc6ef39ab750e"
+            "hash": "1503edba783519f9a3dea7a4763292e0"
         },
         {
             "name": "prefab/scene/unittemplate.prefab",
@@ -69,7 +69,7 @@
                 "Prefab/Scene/UnitTemplate.prefab"
             ],
             "dependencies": [],
-            "hash": "26e605ab5f6ba5c6b8d6aaf471eba783"
+            "hash": "e02594aae71d64ef355766afaf9f649a"
         },
         {
             "name": "prefab/ui/item/attackitem.prefab",
