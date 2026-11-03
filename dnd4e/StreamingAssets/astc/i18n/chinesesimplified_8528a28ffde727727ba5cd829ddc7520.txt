@@ -124,6 +124,10 @@ POWER_00022	神圣之火
 POWER_00023	神恩之光
 POWER_00024	圣光瀑布
 POWER_00025	治愈真言
+POWER_00026	穿刺打击
+POWER_00027	狡诈花招
+POWER_00028	晕眩打击
+POWER_00029	致盲弹幕
 ITEM_00001	长剑
 ITEM_00002	长棍
 ITEM_00003	鳞甲
@@ -162,6 +166,10 @@ EFFECT_00028	需要消耗<color=#4ECDC4>{0}</color>进行维持
 EFFECT_00029	对<color=#4ECDC4>{0}</color>的下次一攻击
 EFFECT_00030	被<color=#4ECDC4>{0}</color>攻击时<br><color=#4ECDC4>豁免检定</color>结束
 EFFECT_00031	在下一回合结束前<br>下一次<color=#4ECDC4>攻击</color>或<color=#4ECDC4>豁免检定</color>
+EFFECT_00032	致盲
+EFFECT_00033	<color=#4ECDC4>{0}</color>,造成<color=#4ECDC4>战斗优势</color>，无法<color=#4ECDC4>夹击</color>
+EFFECT_00034	先手打击
+EFFECT_00035	在第一回合,对后手获得<color=#4ECDC4>战斗优势</color>
 MOVE_TYPE_01	移动
 MOVE_TYPE_02	奔跑
 MOVE_TYPE_03	快步

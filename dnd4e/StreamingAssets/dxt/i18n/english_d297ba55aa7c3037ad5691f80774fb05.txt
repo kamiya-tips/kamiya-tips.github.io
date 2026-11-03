@@ -124,6 +124,10 @@ POWER_00022	Sacred Flame
 POWER_00023	Divine Glow
 POWER_00024	Cascade of Light
 POWER_00025	Healing Word
+POWER_00026	Piercing Strike
+POWER_00027	Sly Flourish
+POWER_00028	Dazing Strike
+POWER_00029	Blinding Barrage
 ITEM_00001	Longsword
 ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
@@ -162,6 +166,10 @@ EFFECT_00028	Requires a <color=#4ECDC4>{0}</color> to sustain
 EFFECT_00029	The next attack against <color=#4ECDC4>{0}</color>
 EFFECT_00030	Attack By <color=#4ECDC4>{0}</color><br><color=#4ECDC4>save ends</color>
 EFFECT_00031	to your next <color=#4ECDC4>attack roll</color> or <color=#4ECDC4>saving throw</color><br>before the end of your next turn
+EFFECT_00032	Blinded
+EFFECT_00033	<color=#4ECDC4>{0}</color>,grant <color=#4ECDC4>combat advantage</color>,can’t <color=#4ECDC4>flank</color>
+EFFECT_00034	First strike
+EFFECT_00035	At first turn,gain <color=#4ECDC4>combat advantage</color> <br>against creatures that haven't acted yet 
 MOVE_TYPE_01	Move
 MOVE_TYPE_02	Run
 MOVE_TYPE_03	Shift
