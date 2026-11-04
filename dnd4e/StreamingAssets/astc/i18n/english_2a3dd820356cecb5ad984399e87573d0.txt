@@ -128,10 +128,12 @@ POWER_00026	Piercing Strike
 POWER_00027	Sly Flourish
 POWER_00028	Dazing Strike
 POWER_00029	Blinding Barrage
+POWER_00030	Nimble Strike
 ITEM_00001	Longsword
 ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
 ITEM_00004	Warhammer
+ITEM_00005	Longbow
 TALENT_00001	Shifty
 TALENT_00002	Shift as a <color=#43A047>Minor Action</color>
 TALENT_00003	Divine Fortune
@@ -168,8 +170,10 @@ EFFECT_00030	Attack By <color=#4ECDC4>{0}</color><br><color=#4ECDC4>save ends</c
 EFFECT_00031	to your next <color=#4ECDC4>attack roll</color> or <color=#4ECDC4>saving throw</color><br>before the end of your next turn
 EFFECT_00032	Blinded
 EFFECT_00033	<color=#4ECDC4>{0}</color>,grant <color=#4ECDC4>combat advantage</color>,can’t <color=#4ECDC4>flank</color>
-EFFECT_00034	First strike
+EFFECT_00034	First Strike
 EFFECT_00035	At first turn,gain <color=#4ECDC4>combat advantage</color> <br>against creatures that haven't acted yet 
+EFFECT_00036	Second Chance
+EFFECT_00037	reroll once <color=#4ECDC4>critical hit</color>
 MOVE_TYPE_01	Move
 MOVE_TYPE_02	Run
 MOVE_TYPE_03	Shift

@@ -128,10 +128,12 @@ POWER_00026	穿刺打击
 POWER_00027	狡诈花招
 POWER_00028	晕眩打击
 POWER_00029	致盲弹幕
+POWER_00030	灵动打击
 ITEM_00001	长剑
 ITEM_00002	长棍
 ITEM_00003	鳞甲
 ITEM_00004	战锤
+ITEM_00005	长弓
 TALENT_00001	灵活移动
 TALENT_00002	快步消耗<color=#43A047>次要动作</color>
 TALENT_00003	神圣命运
@@ -170,6 +172,8 @@ EFFECT_00032	致盲
 EFFECT_00033	<color=#4ECDC4>{0}</color>,造成<color=#4ECDC4>战斗优势</color>，无法<color=#4ECDC4>夹击</color>
 EFFECT_00034	先手打击
 EFFECT_00035	在第一回合,对后手获得<color=#4ECDC4>战斗优势</color>
+EFFECT_00036	死里逃生
+EFFECT_00037	重投一次<color=#4ECDC4>暴击</color>
 MOVE_TYPE_01	移动
 MOVE_TYPE_02	奔跑
 MOVE_TYPE_03	快步
