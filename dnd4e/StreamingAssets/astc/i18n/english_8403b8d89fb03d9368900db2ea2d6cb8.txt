@@ -129,6 +129,9 @@ POWER_00027	Sly Flourish
 POWER_00028	Dazing Strike
 POWER_00029	Blinding Barrage
 POWER_00030	Nimble Strike
+POWER_00031	Hunter’s Bear Trap
+POWER_00032	Two-Fanged Strike
+POWER_00033	Twin Strike
 ITEM_00001	Longsword
 ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
