@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "b8ed5199749c3a0206d547574d1d63cc"
+            "hash": "7ab4584599467633c37e488f26f19c37"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -264,7 +264,7 @@
                 "atlas/common/uihead.spriteatlasv2",
                 "fontasset"
             ],
-            "hash": "a5ad05b0eef3b784360a2cabdeeb5a6a"
+            "hash": "f8a09b1414ec2fdcc1c4d4cd0699a728"
         },
         {
             "name": "prefab/ui/panel/settingpanel.prefab",
@@ -313,11 +313,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "4811f32df10a8848decd4c12069d3e79"
+            "hash": "507a3056c897c95a3e0c8b3cf5dce97a"
         },
         {
             "language": 10,
-            "hash": "fa756e2d316c86bb07bd9bd6e4701bc0"
+            "hash": "c064492cbaeb60eeef5aa2e843cb74dd"
         }
     ],
     "AudioInfos": [

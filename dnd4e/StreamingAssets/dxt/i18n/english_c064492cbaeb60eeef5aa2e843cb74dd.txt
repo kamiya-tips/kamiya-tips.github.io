@@ -52,6 +52,12 @@ TEXT_0047	Vulnerability
 TEXT_0048	 / {0} = {1}
 TEXT_0049	Action
 TEXT_0050	Saving throw
+TEXT_0051	Name
+TEXT_0052	Lv
+TEXT_0053	Class
+TEXT_0054	Race
+TEXT_0055	Size
+TEXT_0056	Basic
 ABILITY_0	Strength
 ABILITY_1	Constitution
 ABILITY_2	Dexterity
