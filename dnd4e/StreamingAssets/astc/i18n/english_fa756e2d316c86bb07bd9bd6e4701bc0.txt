@@ -95,6 +95,8 @@ SKILL_13	Religion
 SKILL_14	Stealth
 SKILL_15	Streetwise
 SKILL_16	Thievery
+SIZE_4	Small
+SIZE_5	Medium
 ACTION_0	<color=#FFC107>Action Point</color>
 ACTION_1	<color=#E53935>Standard Action</color>
 ACTION_2	<color=#2196F3>Move Action</color>
@@ -137,6 +139,12 @@ ITEM_00002	Quarterstaff
 ITEM_00003	Scale Armor
 ITEM_00004	Warhammer
 ITEM_00005	Longbow
+ITEM_00006	Heavy shield
+ITEM_00007	Cloth armor
+ITEM_00008	Chainmail
+ITEM_00009	Leather
+ITEM_00010	Light shield
+ITEM_00011	Hide armor
 TALENT_00001	Shifty
 TALENT_00002	Shift as a <color=#43A047>Minor Action</color>
 TALENT_00003	Divine Fortune

@@ -14,7 +14,7 @@
                 "Atlas/Common/UiCommon.spriteatlasv2"
             ],
             "dependencies": [],
-            "hash": "1915c24fa4f2d51c0c991f2ce1e2c52e"
+            "hash": "cc0efbbe8abe1221cfb68eb05815a660"
         },
         {
             "name": "atlas/common/uihead.spriteatlasv2",
@@ -53,7 +53,7 @@
                 "FontAsset/AlimamaFangYuanTiVF-Thin SDF_Outline.mat"
             ],
             "dependencies": [],
-            "hash": "1511e9da070cfddad1b0727f69eb8e77"
+            "hash": "b8ed5199749c3a0206d547574d1d63cc"
         },
         {
             "name": "prefab/scene/spritetemplate.prefab",
@@ -241,7 +241,7 @@
                 "prefab/ui/item/movebuttonitem.prefab",
                 "prefab/ui/item/powerbuttonitem.prefab"
             ],
-            "hash": "ad674d6365fce191262a527bf0cbf45e"
+            "hash": "82cfc468068d28c0faf51a249b3315ec"
         },
         {
             "name": "prefab/ui/panel/notepanel.prefab",
@@ -253,6 +253,18 @@
                 "fontasset"
             ],
             "hash": "393be99cd811a9efd7c9c317b2450faf"
+        },
+        {
+            "name": "prefab/ui/panel/roleinfopanel.prefab",
+            "assets": [
+                "Prefab/UI/Panel/RoleInfoPanel.prefab"
+            ],
+            "dependencies": [
+                "atlas/common/uicommon.spriteatlasv2",
+                "atlas/common/uihead.spriteatlasv2",
+                "fontasset"
+            ],
+            "hash": "a5ad05b0eef3b784360a2cabdeeb5a6a"
         },
         {
             "name": "prefab/ui/panel/settingpanel.prefab",
@@ -301,11 +313,11 @@
     "I18Infos": [
         {
             "language": 40,
-            "hash": "4c7f3a6dfaf987cc36d9a78cf41e7ba1"
+            "hash": "4811f32df10a8848decd4c12069d3e79"
         },
         {
             "language": 10,
-            "hash": "8403b8d89fb03d9368900db2ea2d6cb8"
+            "hash": "fa756e2d316c86bb07bd9bd6e4701bc0"
         }
     ],
     "AudioInfos": [

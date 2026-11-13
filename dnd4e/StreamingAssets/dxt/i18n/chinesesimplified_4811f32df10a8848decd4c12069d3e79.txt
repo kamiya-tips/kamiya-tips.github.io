@@ -76,8 +76,8 @@ CLASS_02	圣武士
 CLASS_03	游侠
 CLASS_04	盗贼
 CLASS_05	术士
-CLASS_06	法师
-CLASS_07	邪术师
+CLASS_06	邪术师
+CLASS_07	法师
 SKILL_00	杂技
 SKILL_01	神秘
 SKILL_02	运动
@@ -95,6 +95,8 @@ SKILL_13	宗教
 SKILL_14	潜行
 SKILL_15	市井
 SKILL_16	盗窃
+SIZE_4	小型
+SIZE_5	中型
 ACTION_0	<color=#FFC107>行动点</color>
 ACTION_1	<color=#E53935>标准动作</color>
 ACTION_2	<color=#2196F3>移动动作</color>
@@ -137,6 +139,12 @@ ITEM_00002	长棍
 ITEM_00003	鳞甲
 ITEM_00004	战锤
 ITEM_00005	长弓
+ITEM_00006	重盾
+ITEM_00007	布甲
+ITEM_00008	锁甲
+ITEM_00009	皮甲
+ITEM_00010	轻盾
+ITEM_00011	革甲
 TALENT_00001	灵活移动
 TALENT_00002	快步消耗<color=#43A047>次要动作</color>
 TALENT_00003	神圣命运
